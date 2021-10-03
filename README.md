@@ -1,2 +1,1 @@
-# Helm-Corp.github.io
-Helm Corp Official Website
+# Helm Corp Official Website
